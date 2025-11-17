@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://crazy-suits-relax.loca.lt/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://crazy-suits-relax.loca.lt/bin/franklin.delivery/abecaleb/universalimporter/main"
     type: "markup"
     suffix: ".html"
