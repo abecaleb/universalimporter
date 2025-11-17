@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://main--universalimporter--abecaleb.aem.page/content/westpac"
+    url: "https://main--universalimporter--abecaleb.aem.page"
     type: "markup"
     suffix: ".html"
